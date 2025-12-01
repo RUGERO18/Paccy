@@ -1,0 +1,20 @@
+{
+    "git.allowForcePush": true,
+    "git.allowNoVerifyCommit": true,
+    "git.branchRandomName.dictionary": [
+        "adjectives",
+        "animals",
+        "colors",
+        "numbers"
+    ],
+    "git.branchRandomName.enable": true,
+    "git.confirmForcePush": false,
+    "git.confirmNoVerifyCommit": false,
+    "git.confirmSync": false,
+    "git.confirmEmptyCommits": false,
+    "git.fetchOnPull": true,
+    "git.enableSmartCommit": true,
+    "git.rebaseWhenSync": true,
+    "git.rememberPostCommitCommand": true,
+    "git.replaceTagsWhenPull": false
+}
